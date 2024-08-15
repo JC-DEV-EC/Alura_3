@@ -1,21 +1,23 @@
-# Alura 3: Lenguajes de Programación
+# Alura: Lenguajes de Programación
 
-Este proyecto es una aplicación web que muestra una lista de lenguajes de programación con una breve descripción, una imagen y un enlace a la documentación oficial. El contenido se carga dinámicamente utilizando JavaScript, y el estilo de la página se define con CSS.
+![Logo](https://user-images.githubusercontent.com/121910576/257302088-d2a9edb6-75e5-4118-aaba-6f53da7715dc.png)
 
-## Descripción
+**Alura 3** es una aplicación web que presenta una lista de lenguajes de programación con una breve descripción, una imagen representativa y un enlace a la documentación oficial. Este proyecto utiliza JavaScript para la carga dinámica del contenido y CSS para el diseño visual.
 
-La aplicación muestra una interfaz de usuario sencilla y moderna con un fondo de imagen que presenta varios lenguajes de programación. Cada lenguaje está representado por un bloque que incluye:
-- Una imagen representativa
-- Una breve descripción
-- Un botón para acceder a la documentación oficial del lenguaje
+## 🚀 Descripción
 
-## Tecnologías Utilizadas
+La aplicación cuenta con una interfaz moderna y visualmente atractiva. Cada lenguaje de programación se muestra en un bloque con:
+- **Imagen representativa**: Icono o logo del lenguaje.
+- **Descripción**: Breve información sobre el lenguaje.
+- **Enlace de documentación**: Botón para acceder a la documentación oficial.
+
+## 🛠️ Tecnologías Utilizadas
 
 - **HTML**: Estructura del contenido.
 - **CSS**: Estilo y diseño de la página.
 - **JavaScript**: Carga dinámica de contenido y manipulación del DOM.
 
-## Instalación
+## 🏗️ Instalación
 
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
@@ -35,18 +37,18 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
     Puedes usar cualquier navegador moderno para ver la aplicación.
 
-## Uso
+## 🖥️ Uso
 
 - La página se cargará mostrando una lista de lenguajes de programación.
-- Cada bloque de lenguaje muestra la imagen, descripción y un botón para acceder a la documentación.
+- Cada bloque de lenguaje incluye una imagen, una breve descripción y un botón para acceder a la documentación.
 
-## Autor
+## 👤 Autor
 
 Este proyecto fue creado y es mantenido por [LatinGladiador](https://github.com/LatinGladiador).
 
-## Contribuciones
+## 🤝 Contribuciones
 
-Las contribuciones al proyecto son bienvenidas. Si deseas contribuir, por favor, sigue estos pasos:
+Las contribuciones al proyecto son bienvenidas. Si deseas contribuir, sigue estos pasos:
 
 1. **Fork el repositorio**.
 2. **Crea una rama** para tus cambios (`git checkout -b mi-rama`).
@@ -54,10 +56,14 @@ Las contribuciones al proyecto son bienvenidas. Si deseas contribuir, por favor,
 4. **Push** a la rama (`git push origin mi-rama`).
 5. **Crea un Pull Request** en GitHub.
 
-## Agradecimientos
+## 🙏 Agradecimientos
 
 Este proyecto fue inspirado por el curso de [Alura](https://www.alura.com.br/).
 
-## Licencia
+## 📜 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
