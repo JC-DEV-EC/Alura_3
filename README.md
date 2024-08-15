@@ -1,4 +1,7 @@
 # Alura: Lenguajes de Programación
+![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
+![Estado del Proyecto](https://img.shields.io/badge/estado-finalizado-green.svg)
+![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
 ![Logo](https://user-images.githubusercontent.com/121910576/257302088-d2a9edb6-75e5-4118-aaba-6f53da7715dc.png)
 
